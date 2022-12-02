@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "table",
+    "price": 10.99,
+    "imgUrl": "/img/pcman.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/img/dell.jpg"
+  },
+  {
+    "id": 3,
+    "name": "fruit punch",
+    "price": 1.05,
+    "imgUrl": "/img/food.jpg"
+  },
+  {
+    "id": 4,
+    "name": "water pool",
+    "price": 14000,
+    "imgUrl": "/img/water.jpg"
+  }
+]
